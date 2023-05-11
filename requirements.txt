@@ -4,3 +4,4 @@ pytesseract
 torch
 transformers
 Pillow
+python-docx
