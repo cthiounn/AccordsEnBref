@@ -1,0 +1,6 @@
+PyPDF2
+pdf2image
+pytesseract
+torch
+transformers
+Pillow
