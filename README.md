@@ -26,7 +26,11 @@ En python :
 
 ## Labelisation
 
+* Avant
 ![docs/raw.PNG](docs/raw.PNG)
+* Après
 ![docs/label.PNG](docs/label.PNG)
-![docs/raw2.PNG](docs/raw.PNG)
+* Avant
+![docs/raw2.PNG](docs/raw2.PNG)
+* Après
 ![docs/label2.PNG](docs/label2.PNG)
