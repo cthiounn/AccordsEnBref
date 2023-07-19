@@ -23,3 +23,10 @@ En python :
 * OCR : tesseract + pytesseract
 * Lecture des pdfs : Pypdf2
 * transformers pour la production d'un résumé
+
+## Labelisation
+
+![docs/raw.PNG](docs/raw.PNG)
+![docs/label.PNG](docs/label.PNG)
+![docs/raw2.PNG](docs/raw.PNG)
+![docs/label2.PNG](docs/label2.PNG)
